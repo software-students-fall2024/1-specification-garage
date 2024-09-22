@@ -11,36 +11,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-### Interview from Stakeholder
-__Here is our interview record:__
-___Q: Do you usually use fitness apps to assist with your workouts?___
-> Occasionally, but I mostly follow videos for learning.
-
-___Q: Why don't you use fitness apps?___
-> Well, I need to think about this. I believe that most fitness apps are overly complicated. Fitness tutorial videos can be more efficient for me.
-
-___Q: Can you elaborate on how the current fitness apps are complicated?___
-> There are too many fitness plan packages, with cardio, yoga, and strength training mixed together, making it difficult for me to know how to start based on my current situation. Also, the app pages are cluttered with content, making me feel like I need to prepare and learn a lot. It gives me the subconscious impression that fitness is a difficult task and diminishes my interest. Moreover, the app doesn’t link videos with training plans, so I don’t know what to practice next.
-
-___Q: So how do you think fitness apps should be?___
-> I believe a fitness app doesn't need to have more content to be better. I prefer a simple interface and training plans that align with the target user's needs.
-
-___Q: There are many types of fitness enthusiasts with different needs. Do you have any suggestions for simplification?___
-> I think designing a fitness app requires a clear target audience rather than trying to cover all aspects of fitness. For example, it can be tailored to people who focus solely on strength training or only provide yoga-related training materials.
-
-___Q: If we focus solely on one type of fitness, won't it result in a smaller user base for the app?___
-> The app is not limited by region. No matter what type of fitness activity, the market is vast on a global scale. A good fitness app should be more about specialization rather than diversification.
-
-___Q: What do you think is the problem with the fitness plans provided by current fitness apps?___
-> Current fitness apps usually only offer formulaic fitness plans without fully considering individual differences, such as the user's fitness level, physical condition, and goals. Different people have different physical conditions and goals. A lack of personalized plans can lead to poor results and even increase the risk of injury.
-
-### Summary
-
-__Goals & Needs:__
-- Users need a straightforward starting point based on their current fitness level and goals, without being overwhelmed by a variety of options.
-- Users prefer a clean interface that makes it easy to understand what to do next, rather than a complicated UI design.
-- Users need personalized fitness plans that consider individual fitness levels, body, and personal goals.
-
 __Problems/Frustrations:__
 - The abundance of content on app pages can make fitness seem complex and daunting, potentially discouraging users from getting started.
 - Existing apps provide formulaic fitness plans that do not account for individual differences. The formulaic fitness plan can lead to ineffective workouts or even injury.
