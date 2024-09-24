@@ -49,6 +49,7 @@ A little exercise to get started with the specification phase of the software de
 - Users need a straightforward starting point based on their current fitness level and goals, without being overwhelmed by a variety of options.
 - Users prefer a clean interface that makes it easy to understand what to do next, rather than a complicated UI design.
 - Users need personalized fitness plans that consider individual fitness levels, body, and personal goals.
+- Users want access to video demonstrations of exercises to ensure they are performing movements correctly and safely.
   **Problems/Frustrations:**
 - The abundance of content on app pages can make fitness seem complex and daunting, potentially discouraging users from getting started.
 - Existing apps provide formulaic fitness plans that do not account for individual differences. The formulaic fitness plan can lead to ineffective workouts or even injury.
@@ -85,8 +86,13 @@ The vision behind our application is simple: to simplify the journey towards per
 - As a `user with limited gym access`, I need workout plans that can be done at home with minimal equipment, so that I can stay fit without needing a gym membership.
 
 ## Activity Diagrams
+![image](007730a64515c6df572e40a1ec8b0ca.jpg)
+![image](3b2c5b0a9fbd7bc6c7536a67bc7aa07.jpg)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+> This UML Diagram fulfills the User Requirement: - As a `user focus on diet`, I want to know specific diet component for each meal (what percent of protien, fat, carbonhydate etc)
+
+> This UML Diagram fulfills the User Requirement: - As a `user with heavy schedule`, I want personalized workout plans of varying lengths so that I can fit exercise into my day, regardless of my time constraints.
+> This UML Diagram fulfills the User Requirement: - As a `user with limited gym access`, I need workout plans that can be done at home with minimal equipment, so that I can stay fit without needing a gym membership.
 
 ## Wireframe Diagram
 
