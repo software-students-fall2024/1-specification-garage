@@ -88,6 +88,8 @@ The vision behind our application is simple: to simplify the journey towards per
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
-## Clickable Prototype
+## Wireframe Diagram
 
-https://www.figma.com/proto/UrXb8BgK272Jw8eC97xC8s/train%2Fdiet-app?node-id=61-356&node-type=canvas&t=OKuWdYlx1Qr4guga-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A58
+
+## Clickable Prototype
+- [Here is the link to the protptype](https://www.figma.com/proto/UrXb8BgK272Jw8eC97xC8s/train%2Fdiet-app?node-id=61-356&node-type=canvas&t=OKuWdYlx1Qr4guga-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A58)
