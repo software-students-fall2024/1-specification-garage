@@ -88,9 +88,7 @@ The vision behind our application is simple: to simplify the journey towards per
 - As a `user with limited gym access`, I need workout plans that can be done at home with minimal equipment, so that I can stay fit without needing a gym membership.
 
 ## Activity Diagrams
-![image](007730a64515c6df572e40a1ec8b0ca.jpg)
-
-![image](3b2c5b0a9fbd7bc6c7536a67bc7aa07.jpg)
+https://drive.google.com/file/d/13nDDQcgthrbMwF_b8JwCY4ozFj2d5Q85/view?usp=sharing
 
 > This UML Diagram fulfills the User Requirement: - As a `user focus on diet`, I want to know specific diet component for each meal (what percent of protien, fat, carbonhydate etc)
 
