@@ -89,6 +89,7 @@ The vision behind our application is simple: to simplify the journey towards per
 
 ## Activity Diagrams
 ![image](007730a64515c6df572e40a1ec8b0ca.jpg)
+
 ![image](3b2c5b0a9fbd7bc6c7536a67bc7aa07.jpg)
 
 > This UML Diagram fulfills the User Requirement: - As a `user focus on diet`, I want to know specific diet component for each meal (what percent of protien, fat, carbonhydate etc)
