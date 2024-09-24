@@ -11,6 +11,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
+> Dai Xuanming-professional fitness coach in LA Fitness
+
 ### Interview from Stakeholder
 
 **Here is our interview record:**
@@ -46,18 +48,17 @@ A little exercise to get started with the specification phase of the software de
 
 **Goals & Needs:**
 
-- Users need a straightforward starting point based on their current fitness level and goals, without being overwhelmed by a variety of options.
-- Users prefer a clean interface that makes it easy to understand what to do next, rather than a complicated UI design.
-- Users need personalized fitness plans that consider individual fitness levels, body, and personal goals.
-- Users want access to video demonstrations of exercises to ensure they are performing movements correctly and safely.
+- She needs a straightforward starting point based on her current fitness level and goals, without being overwhelmed by a variety of options.
+- She prefers a clean interface that makes it easy to understand what to do next, rather than a complicated UI design.
+- She needs personalized fitness plans that consider individual fitness levels, body, and personal goals.
+- She wants access to video demonstrations of exercises to ensure he can perform movements correctly and safely.
 
 **Problems/Frustrations:**
 
-- The abundance of content on app pages can make fitness seem complex and daunting, potentially discouraging users from getting started.
+- The abundance of content on app pages can make fitness seem complex and daunting, potentially discouraging her from getting started.
 - Existing apps provide formulaic fitness plans that do not account for individual differences. The formulaic fitness plan can lead to ineffective workouts or even injury.
-- Usersget overwhelmed by frequent in-app notifications and advertisements, which distract from their focus on fitness and create a less enjoyable user experience.
-- Usersoften struggle with unclear instructions or explanations for exercises,
-  leaving them unsure of how to perform certain movements properly or effectively
+- She will get overwhelmed by frequent in-app notifications and advertisements, which distract from her focus on fitness and create a less enjoyable user experience.
+- She often struggles with unclear instructions or explanations for exercises, leaving her unsure of how to perform certain movements properly or effectively.
 
 ## Product Vision Statement
 
