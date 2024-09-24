@@ -50,7 +50,9 @@ A little exercise to get started with the specification phase of the software de
 - Users prefer a clean interface that makes it easy to understand what to do next, rather than a complicated UI design.
 - Users need personalized fitness plans that consider individual fitness levels, body, and personal goals.
 - Users want access to video demonstrations of exercises to ensure they are performing movements correctly and safely.
-  **Problems/Frustrations:**
+
+**Problems/Frustrations:**
+
 - The abundance of content on app pages can make fitness seem complex and daunting, potentially discouraging users from getting started.
 - Existing apps provide formulaic fitness plans that do not account for individual differences. The formulaic fitness plan can lead to ineffective workouts or even injury.
 - Usersget overwhelmed by frequent in-app notifications and advertisements, which distract from their focus on fitness and create a less enjoyable user experience.
