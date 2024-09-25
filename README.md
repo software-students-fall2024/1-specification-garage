@@ -90,7 +90,7 @@ The vision behind our application is simple: to simplify the journey towards per
 ## Activity Diagrams
 ![image](79f102878d811050b2748086d0bd246.jpg)
 ![image](863ca9cd93c98845f05e20471089198.jpg)
-> This UML Diagram fulfills the User Requirement: - As a `user focus on diet`, I want to know specific diet component for each meal (what percent of protien, fat, carbonhydate etc)
+> This UML Diagram fulfills the User Requirement: - As a `exercise user focusing on diet`, I want to know specific diet component for each meal so that I can keep an eye on my diet while exercising. 
 
 > This UML Diagram fulfills the User Requirement: - As a `user with heavy schedule`, I want personalized workout plans of varying lengths so that I can fit exercise into my day, regardless of my time constraints.
 
