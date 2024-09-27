@@ -63,25 +63,25 @@ A little exercise to get started with the specification phase of the software de
 
 The vision behind our application is simple: to simplify the journey towards personal health and fitness. So our vision statement can be:
 
-> Our app empowers users to achieve their fitness goals by providing a comprehensive platform that not only guides through tailored workout plans but also meticulously tracks dietary calorie intake, making healthy living accessible and manageable.
+> Our app empowers users to achieve their fitness goals by providing a platform that not only guides through workout plans but also tracks dietary calorie intake.
 
 ## User Requirements
 
 - As a `fitness beginner`, I need some guidelines on how to use gym equipment and perform exercises correctly, so that I can work out more safely and effectively.
 
-- As `someone new to fitness`, I need motivational reminders and a straightforward progress tracker, so that I can stay encouraged and see tangible results from my efforts.
+- As `someone new to fitness`, I need a straightforward progress tracker, so that I can stay encouraged and see tangible results from my efforts.
 
-- As a `professional bodybuilder`, I need the ability to create and customize advanced workout routines that align with my competition preparation cycles, including specific exercises for strength, hypertrophy, and endurance.
+- As a `professional bodybuilder`, I need the ability to create and customize workout routines so that I can keep track on my preparation cycles.
 
-- As a `vegetarian`, I need meal plans and nutritional guidance that cater to a plant-based diet, so that I can meet my fitness goals without compromising my dietary choices.
+- As a `vegetarian`, I need nutritional guidance that cater to a plant-based diet, so that I can meet my fitness goals without compromising my dietary choices.
 
-- As a `individual who focus on health`, I need detailed macro and micronutrient tracking, so that I can fine-tune my diet to meet specific health and fitness objectives.
+- As a `individual who focus on health`, I need detailed macro and micro nutrient tracking, so that I can fine-tune my diet to meet specific health and fitness objectives.
 
 - As a `user with heavy schedule`, I want personalized workout plans of varying lengths so that I can fit exercise into my day, regardless of my time constraints.
 
 - As a `user recovering from an injury from the exercise`, I want customizable low-impact exercises so that I can safely regain my strength without having further injury to myself.
 
-- As a `user focus on diet`, I want to know specific diet component for each meal (what percent of protien, fat, carbonhydate etc)
+- As a `exercise user focusing on diet`, I want to know specific diet component for each meal so that I can keep an eye on my diet while exercising. 
 
 - As a `parent`, I need family-friendly meal suggestions and quick workouts, so that I can stay healthy while managing my family responsibilities.
 
@@ -90,7 +90,7 @@ The vision behind our application is simple: to simplify the journey towards per
 ## Activity Diagrams
 ![image](79f102878d811050b2748086d0bd246.jpg)
 ![image](863ca9cd93c98845f05e20471089198.jpg)
-> This UML Diagram fulfills the User Requirement: - As a `user focus on diet`, I want to know specific diet component for each meal (what percent of protien, fat, carbonhydate etc)
+> This UML Diagram fulfills the User Requirement: - As a `exercise user focusing on diet`, I want to know specific diet component for each meal so that I can keep an eye on my diet while exercising. 
 
 > This UML Diagram fulfills the User Requirement: - As a `user with heavy schedule`, I want personalized workout plans of varying lengths so that I can fit exercise into my day, regardless of my time constraints.
 
