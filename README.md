@@ -99,5 +99,12 @@ The vision behind our application is simple: to simplify the journey towards per
 ## Wireframe Diagram
 - [Here is the link to the wireframe](https://www.figma.com/design/fJZAlrxWfIxjrc75b91auU/garage-group-project-01-(Copy)?t=Um1k2OHaqYFDMIGX-1)
 
+### Update Wireframe (Detailed logic in our product)
+- [Here is the link to the newer version, which contains detailed ideas of our product perspective and how each components work](https://www.figma.com/design/UrXb8BgK272Jw8eC97xC8s/garage-group-project-01?node-id=0-1&node-type=canvas&t=Ypx1CztK5JgRvBba-0)
+
 ## Clickable Prototype
-- [Here is the link to the protptype](https://www.figma.com/proto/UrXb8BgK272Jw8eC97xC8s/garage-group-project-01?node-id=2-58&node-type=canvas&t=OPsCFn5h2IsVRtjV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A58)
+- [Here is the link to the protptype](https://www.figma.com/proto/UrXb8BgK272Jw8eC97xC8s/garage-group-project-01?node-id=2-58&node-type=canvas&t=OPsCFn5h2IsVRtjV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A58) 
+
+
+### Update Prototye (Detailed logic in our product)
+- [This is a newer version](https://www.figma.com/proto/UrXb8BgK272Jw8eC97xC8s/garage-group-project-01?node-id=2-58&node-type=canvas&t=Ypx1CztK5JgRvBba-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A58)
