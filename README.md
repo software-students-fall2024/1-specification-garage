@@ -87,9 +87,9 @@ The vision behind our application is simple: to simplify the journey towards per
 
 - As a `user with limited gym access`, I need workout plans that can be done at home with minimal equipment, so that I can stay fit without needing a gym membership.
 
-## Activity Diagrams
-![image](79f102878d811050b2748086d0bd246.jpg)
-![image](863ca9cd93c98845f05e20471089198.jpg)
+## Updated Activity Diagrams
+![image](a9d06c2fd8ecc3d8d403423847fcbb2.jpg)
+![image](130f5db9ba8668ea6b4a1e0b9458939.jpg)
 > This UML Diagram fulfills the User Requirement: - As a `exercise user focusing on diet`, I want to know specific diet component for each meal so that I can keep an eye on my diet while exercising. 
 
 > This UML Diagram fulfills the User Requirement: - As a `user with heavy schedule`, I want personalized workout plans of varying lengths so that I can fit exercise into my day, regardless of my time constraints.
